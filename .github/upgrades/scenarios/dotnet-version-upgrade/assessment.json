@@ -1,0 +1,513 @@
+{
+  "settings": {
+    "components": {
+      "code": true,
+      "binaries": false
+    },
+    "targetId": "net10.0",
+    "targetDisplayName": ".NETCoreApp,Version=v10.0"
+  },
+  "analysisStartTime": "2026-11-22T21:30:42.3294563Z",
+  "analysisEndTime": "2026-11-22T21:30:43.568506Z",
+  "privacyModeHelpUrl": "https://go.microsoft.com/fwlink/?linkid=2270980",
+  "stats": {
+    "summary": {
+      "projects": 16,
+      "issues": 0,
+      "incidents": 0,
+      "effort": 0
+    },
+    "charts": {
+      "severity": {
+        "Mandatory": 0,
+        "Optional": 0,
+        "Potential": 0,
+        "Information": 0
+      },
+      "category": {}
+    }
+  },
+  "projects": [
+    {
+      "path": "RiverBooks.AppHost\\RiverBooks.AppHost.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "properties": {
+        "appName": "RiverBooks.AppHost",
+        "projectKind": "DotNetCoreApp",
+        "frameworks": [
+          "net11.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "isTestProject": false,
+        "numberOfFiles": 1,
+        "numberOfCodeFiles": 1,
+        "linesTotal": 24,
+        "linesOfCode": 24,
+        "totalApiScanned": 0,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [],
+      "features": []
+    },
+    {
+      "path": "RiverBooks.Books.Contracts\\RiverBooks.Books.Contracts.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "properties": {
+        "appName": "RiverBooks.Books.Contracts",
+        "projectKind": "ClassLibrary",
+        "frameworks": [
+          "net11.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "isTestProject": false,
+        "numberOfFiles": 2,
+        "numberOfCodeFiles": 2,
+        "linesTotal": 10,
+        "linesOfCode": 10,
+        "totalApiScanned": 0,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [],
+      "features": []
+    },
+    {
+      "path": "RiverBooks.Books\\RiverBooks.Books.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "properties": {
+        "appName": "RiverBooks.Books",
+        "projectKind": "ClassLibrary",
+        "frameworks": [
+          "net11.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "isTestProject": false,
+        "numberOfFiles": 28,
+        "numberOfCodeFiles": 28,
+        "linesTotal": 693,
+        "linesOfCode": 693,
+        "totalApiScanned": 0,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [],
+      "features": []
+    },
+    {
+      "path": "RiverBooks.Books.Tests\\RiverBooks.Books.Tests.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "properties": {
+        "appName": "RiverBooks.Books.Tests",
+        "projectKind": "DotNetCoreApp",
+        "frameworks": [
+          "net11.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "isTestProject": true,
+        "numberOfFiles": 6,
+        "numberOfCodeFiles": 5,
+        "linesTotal": 226,
+        "linesOfCode": 221,
+        "totalApiScanned": 0,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [],
+      "features": []
+    },
+    {
+      "path": "RiverBooks.EmailSending.Contracts\\RiverBooks.EmailSending.Contracts.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "properties": {
+        "appName": "RiverBooks.EmailSending.Contracts",
+        "projectKind": "ClassLibrary",
+        "frameworks": [
+          "net11.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "isTestProject": false,
+        "numberOfFiles": 1,
+        "numberOfCodeFiles": 1,
+        "linesTotal": 12,
+        "linesOfCode": 12,
+        "totalApiScanned": 0,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [],
+      "features": []
+    },
+    {
+      "path": "RiverBooks.EmailSending\\RiverBooks.EmailSending.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "properties": {
+        "appName": "RiverBooks.EmailSending",
+        "projectKind": "ClassLibrary",
+        "frameworks": [
+          "net11.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "isTestProject": false,
+        "numberOfFiles": 13,
+        "numberOfCodeFiles": 13,
+        "linesTotal": 358,
+        "linesOfCode": 358,
+        "totalApiScanned": 0,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [],
+      "features": []
+    },
+    {
+      "path": "RiverBooks.OrderProcessing.Contracts\\RiverBooks.OrderProcessing.Contracts.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "properties": {
+        "appName": "RiverBooks.OrderProcessing.Contracts",
+        "projectKind": "ClassLibrary",
+        "frameworks": [
+          "net11.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "isTestProject": false,
+        "numberOfFiles": 5,
+        "numberOfCodeFiles": 5,
+        "linesTotal": 48,
+        "linesOfCode": 48,
+        "totalApiScanned": 0,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [],
+      "features": []
+    },
+    {
+      "path": "RiverBooks.OrderProcessing\\RiverBooks.OrderProcessing.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "properties": {
+        "appName": "RiverBooks.OrderProcessing",
+        "projectKind": "ClassLibrary",
+        "frameworks": [
+          "net11.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "isTestProject": false,
+        "numberOfFiles": 39,
+        "numberOfCodeFiles": 39,
+        "linesTotal": 1443,
+        "linesOfCode": 1443,
+        "totalApiScanned": 0,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [],
+      "features": []
+    },
+    {
+      "path": "RiverBooks.OrderProcessingTests\\RiverBooks.OrderProcessingTests.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "properties": {
+        "appName": "RiverBooks.OrderProcessingTests",
+        "projectKind": "DotNetCoreApp",
+        "frameworks": [
+          "net11.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "isTestProject": false,
+        "numberOfFiles": 8,
+        "numberOfCodeFiles": 8,
+        "linesTotal": 819,
+        "linesOfCode": 819,
+        "totalApiScanned": 0,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [],
+      "features": []
+    },
+    {
+      "path": "RiverBooks.Reporting\\RiverBooks.Reporting.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "properties": {
+        "appName": "RiverBooks.Reporting",
+        "projectKind": "ClassLibrary",
+        "frameworks": [
+          "net11.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "isTestProject": false,
+        "numberOfFiles": 14,
+        "numberOfCodeFiles": 14,
+        "linesTotal": 376,
+        "linesOfCode": 376,
+        "totalApiScanned": 0,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [],
+      "features": []
+    },
+    {
+      "path": "RiverBooks.ServiceDefaults\\RiverBooks.ServiceDefaults.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "properties": {
+        "appName": "RiverBooks.ServiceDefaults",
+        "projectKind": "ClassLibrary",
+        "frameworks": [
+          "net11.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "isTestProject": false,
+        "numberOfFiles": 1,
+        "numberOfCodeFiles": 1,
+        "linesTotal": 127,
+        "linesOfCode": 127,
+        "totalApiScanned": 0,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [],
+      "features": []
+    },
+    {
+      "path": "RiverBooks.SharedKernel\\RiverBooks.SharedKernel.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "properties": {
+        "appName": "RiverBooks.SharedKernel",
+        "projectKind": "ClassLibrary",
+        "frameworks": [
+          "net11.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "isTestProject": false,
+        "numberOfFiles": 9,
+        "numberOfCodeFiles": 9,
+        "linesTotal": 320,
+        "linesOfCode": 320,
+        "totalApiScanned": 0,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [],
+      "features": []
+    },
+    {
+      "path": "RiverBooks.SharedKernel.Tests\\RiverBooks.SharedKernel.Tests.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "properties": {
+        "appName": "RiverBooks.SharedKernel.Tests",
+        "projectKind": "DotNetCoreApp",
+        "frameworks": [
+          "net11.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "isTestProject": true,
+        "numberOfFiles": 3,
+        "numberOfCodeFiles": 3,
+        "linesTotal": 158,
+        "linesOfCode": 158,
+        "totalApiScanned": 0,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [],
+      "features": []
+    },
+    {
+      "path": "RiverBooks.Users.Contracts\\RiverBooks.Users.Contracts.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "properties": {
+        "appName": "RiverBooks.Users.Contracts",
+        "projectKind": "ClassLibrary",
+        "frameworks": [
+          "net11.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "isTestProject": false,
+        "numberOfFiles": 6,
+        "numberOfCodeFiles": 6,
+        "linesTotal": 45,
+        "linesOfCode": 45,
+        "totalApiScanned": 0,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [],
+      "features": []
+    },
+    {
+      "path": "RiverBooks.Users\\RiverBooks.Users.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "properties": {
+        "appName": "RiverBooks.Users",
+        "projectKind": "ClassLibrary",
+        "frameworks": [
+          "net11.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "isTestProject": false,
+        "numberOfFiles": 63,
+        "numberOfCodeFiles": 63,
+        "linesTotal": 3189,
+        "linesOfCode": 3189,
+        "totalApiScanned": 0,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [],
+      "features": []
+    },
+    {
+      "path": "RiverBooks.Web\\RiverBooks.Web.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "properties": {
+        "appName": "RiverBooks.Web",
+        "projectKind": "AspNetCore",
+        "frameworks": [
+          "net11.0"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": true,
+        "isTestProject": false,
+        "numberOfFiles": 6,
+        "numberOfCodeFiles": 2,
+        "linesTotal": 198,
+        "linesOfCode": 104,
+        "totalApiScanned": 0,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [],
+      "features": []
+    }
+  ],
+  "rules": {}
+}
